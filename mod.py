@@ -1,3 +1,3 @@
 a,b,c=map(int,input().split())
-k=a*b%c
-print(k)
+x=a*b%c
+print(x)
