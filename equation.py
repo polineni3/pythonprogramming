@@ -1,3 +1,3 @@
-p,q,s=map(int,input().split())
-v=p*s+q
-print(v
+i,j,k=map(int,input().split())
+v=i*k+j
+print(v)
